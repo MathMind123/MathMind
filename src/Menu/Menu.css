@@ -1,0 +1,25 @@
+.Menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+}
+.container {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+::placeholder{
+    color: rgb(0, 0, 0);
+    padding-left: 10px;
+}
+
+.Menu .logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    margin-right: 20px;
+}

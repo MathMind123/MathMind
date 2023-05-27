@@ -1,0 +1,11 @@
+.card {
+    border: 1px solid #000000;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .card img {
+    width: 110px; /* Ancho deseado de la imagen */
+    height: 110px; /* Alto deseado de la imagen */
+    object-fit: cover; /* Ajustar imagen al tamaño especificado */
+    object-position: center; /* Posicionar la imagen en el centro */
+  }
