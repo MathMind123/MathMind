@@ -8,10 +8,10 @@ MathMind, una empresa dedicada a proporcionar servicios educativos de matemátic
 El equipo de trabajo está compuesto por los siguientes docentes:
 
 -  [Andrés Arroyave](https://github.com/Andres-Arroyave) 
--  [Alexander Soto Barco](#) 
+-  [Alexander Soto Barco](https://github.com/CapiAlex) 
 -  [Cristan David Vertel](#) 
--  [Juan Esteban Acevedo](#) 
--  [Juan Manuel Restrepo](#) 
--  [Juan Pablo Toro](#) 
+-  [Juan Esteban Acevedo](https://github.com/JuanesAcevedoP) 
+-  [Juan Manuel Restrepo](https://github.com/JuanManuelRPO) 
+-  [Juan Pablo Toro](https://github.com/pablotoro2006) 
 
 
