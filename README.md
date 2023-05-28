@@ -7,7 +7,11 @@ MathMind, una empresa dedicada a proporcionar servicios educativos de matemátic
 
 El equipo de trabajo está compuesto por los siguientes docentes:
 
-- [Andrés Arroyave](https://github.com/Andres-Arroyave) - HTML
--  [Juan Esteban Acevedo](https://breakdance.github.io/breakdance/) - HTML
--  [](https://breakdance.github.io/breakdance/) - HTML
+-  [Andrés Arroyave](https://github.com/Andres-Arroyave) 
+-  [Alexander Soto Barco]() 
+-  [Cristan David Vertel]() 
+-  [Juan Esteban Acevedo](https://breakdance.github.io/breakdance/) 
+-  [Juan Manuel Restrepo]() 
+-  [Juan Pablo Toro]() 
+
 
